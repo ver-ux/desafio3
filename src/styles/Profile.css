@@ -1,0 +1,30 @@
+/* Profile.css */
+
+/* Estilo do container do perfil */
+.profile-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Estilo da imagem do perfil */
+  .profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #fff; /* Adicione uma cor de fundo apropriada */
+  }
+  
+  /* Estilo do nome do usuário */
+  .profile-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  /* Estilo do número de seguidores */
+  .profile-followers {
+    font-size: 1rem;
+    margin-top: 5px;
+    color: #555; /* Cor de texto mais suave */
+  }
